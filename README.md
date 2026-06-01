@@ -1,8 +1,8 @@
 # 💫 About Me
 
-Hi, I'm **Aryan Singh**, a BCA student and aspiring **Data Analyst** & **Python Developer**.
+Hi, I'm **Aryan Singh**, a BCA student and **Data Analyst** & **Python Developer**.
 
-I am passionate about transforming raw data into meaningful insights through data analysis and visualization. As a fresher, I am continuously improving my skills in Data Analytics, Business Intelligence, and Python Development.
+I am passionate about data cleaning, transforming raw data into meaningful insights through data analysis and data visualization. As a fresher, I am continuously improving my skills in Data Analytics, Business Intelligence, and Python Development.
 
 ### 🚀 Skills & Technologies
 
@@ -16,12 +16,15 @@ I am passionate about transforming raw data into meaningful insights through dat
 * Power BI
 * Data Cleaning
 * Data Transformation
+* Data Visualization
 * Dashboard Development
-* MIS Reporting
+* MIS Reporting and Learning new Technologies.
 
-I have worked on academic and personal projects involving data analysis and Python programming. I enjoy solving real-world problems through technology and creating practical, data-driven solutions.
+I have worked on academic and personal projects involving data analysis and Python programming. I enjoy solving real-word problems through technology and creating practical, data-driven solutions.
 
 I am currently looking for opportunities to gain industry experience, collaborate on meaningful projects, and grow as a Data Analyst and Python Developer.
+
+I am a quick learner, dedicated to continuous growth, and expcited to start my professional journey in the IT Industry.
 
 ---
 
