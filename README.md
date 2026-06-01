@@ -1,4 +1,3 @@
-## Hi there 
 # 💫 About Me
 
 Hi, I'm **Aryan Singh**, a BCA student and aspiring **Data Analyst** & **Python Developer**.
