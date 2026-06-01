@@ -31,7 +31,7 @@ I am a quick learner, dedicated to continuous growth, and expcited to start my p
 ## 🌐 Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/aryan-singh-7811142a6](http://www.linkedin.com/in/aryan-singh-7811142a6)
-* Instagram: [www.instagram.com/alpain_5908](http://www.instagram.com/alpain_5908)
+* Instagram: [www.instagram.com/alpain_5908](https://www.instagram.com/alpain__5908?igsh=ZGs2aWY3b2hncHo0)
 * Email: [aryan81358135singh@gmail.com](mailto:aryan81358135singh@gmail.com)
 
 ---
